@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to Code with Me!
     text: It's Nice To Meet You
-    button: Tell Me More
+    button: Pitch your meet up here
     buttonlink: "#services"
 
   services:
@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
+  events:
+    title: "Events"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: events
     closebutton: "Close Project"
 
   timeline:
